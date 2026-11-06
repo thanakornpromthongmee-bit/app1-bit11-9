@@ -4,8 +4,8 @@ import { StyleSheet, Text, View, Image } from "react-native";
 export default function App(){
     return (
 
-        <View style={myStyle.container}>
-            <Text style={myStyle.title}>kandanai thalad</Text>
+        <View style={homeStyle.container}>
+            <Text style={homeStyle.title}>thanakorn promthongmee</Text>
 
             <Image 
                 source={require('@/assets/images/dog.jpg')}
